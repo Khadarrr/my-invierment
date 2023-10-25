@@ -1,0 +1,23 @@
+{
+  "name": "my-invierment",
+  "version": "1.0.0",
+  "description": "example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khadarrr/my-invierment.git"
+  },
+  "author": "Khadarr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khadarrr/my-invierment/issues"
+  },
+  
+  "homepage": "https://github.com/Khadarrr/my-invierment#readme"
+
+}
